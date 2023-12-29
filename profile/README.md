@@ -4,17 +4,19 @@ We're building the first AI-powered knowledge base and troubleshooting assistant
 
 ## Contact Us
 
-- **Email**: contact@trace.ai
+- **Email**: vjz3qz@virginia.edu, rahulkm@berkeley.edu, ycz7sm@virginia.edu
 - **LinkedIn**: [Trace AI LinkedIn](https://www.linkedin.com/company/trace-ai-co)
 
 ---
 
-Trace AI Team © [Current Year]
+Trace AI Team © 2024
 
 
 <!--
 
 **Here are some ideas to get you started:**
+
+- **Email**: contact@trace.ai
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
