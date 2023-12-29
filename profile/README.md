@@ -1,5 +1,7 @@
 # Trace AI
 
+We're building the first AI-powered knowledge base and troubleshooting assistant in industrial facilities. Our goal is to use AI to help engineers and operators in manufacturing, energy, and pharmaceuticals understand and troubleshoot their process operations 10x faster than they can right now. 
+
 ## Contact Us
 
 - **Email**: contact@trace.ai
