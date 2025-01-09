@@ -1,6 +1,6 @@
 ## Contact Us
 
-- **Email**: vjz3qz@virginia.edu, rahulkm@berkeley.edu
+- **Email**: varunpasupuleti8@gmail.com, rahulkm@berkeley.edu
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/company/trace-ai-co)
 
 
